@@ -1,0 +1,3 @@
+- 👋 Olá, sou Paulo Augusto, Licenciado em Informática, mas sempre ansioso por aprender coisas novas.
+- 👀 Em Informática, gosto de trabalhar com banco de dados e de utilizar Python para resolver questões de Matemática.
+- 🌱 Atualmente estou estudando sobre Ciência de Dados.
