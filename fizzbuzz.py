@@ -6,8 +6,8 @@ Buzz, se os números fores divisíveis por 5;
 Fizzbuzz, se os números fores divisíveis por 15;
 """
 for i in range(1, 101):
-    # Visto que os números divisíveis por 15 também o são por 5,
-    # o teste condicional por 15 será executado primeiro.
+    # Visto que os números divisíveis por 15 também o são por 5 e
+    # por 3, o teste condicional por 15 será executado primeiro.
     if i % 15 == 0:
         print('\033[1;37;40m fizz-buzz \033[m')
     elif i % 5 == 0:
